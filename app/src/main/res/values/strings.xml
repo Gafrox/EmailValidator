@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EmailValidator</string>
+    <string name="hint_email">Email</string>
+    <string name="btn_text">Check email</string>
+    <string name="hint_text">Did you mean: %1$s</string>
+    <string name="result_text">Result: %1$s\nReason: %2$s</string>
+</resources>
